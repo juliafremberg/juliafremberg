@@ -1,16 +1,41 @@
-### Hi there 👋
+# Julia Fremberg
 
-<!--
-**juliafremberg/juliafremberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introduction
 
-Here are some ideas to get you started:
+Hello there! 👋 I'm Julia Fremberg, a passionate [software developer](https://www.linkedin.com/in/juliafremberg/) with a love for crafting elegant solutions to complex problems. I'm enthusiastic about exploring new technologies and constantly expanding my skill set.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 💻 I have a strong background in **Java** and **Python**, but I'm always eager to learn new programming languages and frameworks.
+- 🌱 Currently, I'm diving deep into machine learning and data science.
+- 🎓 I am currently a sophomore at the University of Pennsylvania.
+- 📫 You can reach me via email at [jfrem@seas.upenn.edu](mailto:jfrem@seas.upenn.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/juliafremberg/).
+
+## Projects
+
+Here are a few projects I'm proud to have worked on:
+
+- [Project A](link-to-project-a): Brief description.
+- [Project B](link-to-project-b): Brief description.
+- [Project C](link-to-project-c): Brief description.
+
+## Skills
+
+- Programming Languages: Python, Java, OCaml, C++
+- Frameworks & Libraries: Flask, React.js, TensorFlow
+- Databases: MySQL, MongoDB, DuckDB
+- Tools & Technologies: Git, VS Code, IntelliJ
+
+## Interests
+
+Apart from coding, I enjoy:
+- 🏃‍♀️ Running + Hot yoga
+- 🎨 Exploring digital art and design.
+- 👩‍🍳 Trying new Philly restraunts
+
+## Let's Connect!
+
+I'm always open to collaborations and new opportunities. Feel free to reach out to me, and let's create something amazing together!
+
+[![LinkedIn](https://img.shields.io/badge/-Julia%20Fremberg-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/juliafremberg/)](https://www.linkedin.com/in/juliafremberg/)
+
