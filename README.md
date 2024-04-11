@@ -11,14 +11,6 @@ Hello there! 👋 I'm Julia Fremberg, a passionate [software developer](https://
 - 🎓 I am currently a sophomore at the University of Pennsylvania.
 - 📫 You can reach me via email at [jfrem@seas.upenn.edu](mailto:jfrem@seas.upenn.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/juliafremberg/).
 
-## Projects
-
-Here are a few projects I'm proud to have worked on:
-
-- [Project A](link-to-project-a): Brief description.
-- [Project B](link-to-project-b): Brief description.
-- [Project C](link-to-project-c): Brief description.
-
 ## Skills
 
 - Programming Languages: Python, Java, OCaml, C++
