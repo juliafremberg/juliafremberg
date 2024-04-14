@@ -23,11 +23,12 @@ Hello there! 👋 I'm Julia Fremberg, a passionate [software developer](https://
 Apart from coding, I enjoy:
 - 🏃‍♀️ Running + Hot yoga
 - 🎨 Exploring digital art and design.
-- 👩‍🍳 Trying new Philly restraunts
+- 👩‍🍳 Trying new Philly restaurants
 
 ## Let's Connect!
 
 I'm always open to collaborations and new opportunities. Feel free to reach out to me, and let's create something amazing together!
 
 [![LinkedIn](https://img.shields.io/badge/-Julia%20Fremberg-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/juliafremberg/)](https://www.linkedin.com/in/juliafremberg/)
-
+[![Instagram Badge](https://img.shields.io/badge/-JuliaFremberg-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/juliafremberg)](https://instagram.com/juliafremberg)
+[![YouTube Badge](https://img.shields.io/badge/-JuliaFremberg-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCFt6TSF464J8K82xeA?sub_confirmation=1)](https://www.youtube.com/channel/UCFt6TSF464J8K82xeA?sub_confirmation=1)
