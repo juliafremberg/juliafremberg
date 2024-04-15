@@ -21,9 +21,9 @@ Hey! 👋 I'm Julia Fremberg, a passionate [software developer](https://www.link
 ## Interests
 
 Apart from coding, I enjoy:
-- 🏃‍♀️ Running + Hot yoga
-- 🎨 Exploring digital art and design.
-- 👩‍🍳 Trying new Philly restaurants
+- 🏃‍♀️ Running
+- ☮️ Hot yoga
+- 👩‍🍳 Trying new restaurants in Philly
 
 ## Let's Connect!
 
