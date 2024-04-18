@@ -6,9 +6,9 @@ Hey! 👋 I'm Julia Fremberg, a passionate [software developer](https://www.link
 
 ## About Me
 
+- 🎓 I am currently pursuing a BSE in CS w/ a concentration in AI and minor in Math @ the University of Pennsylvania
 - 💻 I have a strong background in **Java** and **Python**, but I'm always eager to learn new programming languages and frameworks.
 - 🌱 Currently, I'm diving deep into machine learning and data science.
-- 🎓 I am currently a sophomore at the University of Pennsylvania.
 - 📫 You can reach me via email at [jfrem@seas.upenn.edu](mailto:jfrem@seas.upenn.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/juliafremberg/).
 
 ## Skills
