@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hey! 👋 I'm [Julia Fremberg](https://www.linkedin.com/in/juliafremberg/), a passionate software developer with a love for crafting elegant solutions to complex problems. 
+Hi I'm Julia Fremberg!
 
 ## About Me
 
