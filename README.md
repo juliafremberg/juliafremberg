@@ -7,12 +7,12 @@ Hi I'm Julia Fremberg!
 ## About Me
 
 - 🎓 I am currently pursuing a BSE in CS w/ a concentration in AI and minor in Math @ the University of Pennsylvania
-- 🌱 Currently, I'm diving deep into machine learning, NLP, and data science.
+- 🌱 Deep diving into machine learning, NLP, and data science.
 - 📫 You can reach me via email at [jfrem@seas.upenn.edu](mailto:jfrem@seas.upenn.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/juliafremberg/).
 
 ## Skills
 
-- Programming Languages: Python, Java, OCaml, C/C++
+- Programming Languages: Python, Java, OCaml, C/C++, SQL
 - Frameworks & Libraries: Flask, React.js, TensorFlow
 - Databases: MySQL, MongoDB, DuckDB
 - Tools & Technologies: Git, VS Code, IntelliJ
