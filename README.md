@@ -1,8 +1,7 @@
 # Julia Fremberg
 
 ## Introduction
-
-Hi I'm Julia Fremberg!
+JULIA FREMBERG
 
 ## About Me
 
