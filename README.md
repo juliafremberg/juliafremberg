@@ -11,10 +11,10 @@ JULIA FREMBERG
 
 ## Skills
 
-- Programming Languages: Python, Java, OCaml, C/C++, SQL
-- Frameworks & Libraries: Flask, React.js, TensorFlow
+- Programming Languages: Python, Java, OCaml, C/C++, SQL, JavaScript
+- Frameworks & Libraries: Flask, React.js, Next.js, TensorFlow, Tailwind CSS
 - Databases: MySQL, MongoDB, DuckDB
-- Tools & Technologies: Git, VS Code, IntelliJ
+- Tools & Technologies: Git, VS Code, IntelliJ, MongoDB Atlas, REST APIs, Node.js, JSON
 
 ## Interests
 
