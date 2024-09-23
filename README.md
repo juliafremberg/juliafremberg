@@ -1,8 +1,5 @@
 # Julia Fremberg
 
-## Introduction
-JULIA FREMBERG
-
 ## About Me
 
 - 🎓 I am currently pursuing a BSE in CS w/ a concentration in AI and minor in Math @ the University of Pennsylvania
