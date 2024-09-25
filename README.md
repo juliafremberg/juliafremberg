@@ -22,8 +22,6 @@ Apart from coding, I enjoy:
 
 ## Let's Connect!
 
-I'm always open to collaborations and new opportunities. Feel free to reach out to me, and let's create something amazing together!
-
 [![LinkedIn](https://img.shields.io/badge/-Julia%20Fremberg-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/juliafremberg/)](https://www.linkedin.com/in/juliafremberg/)
 [![Instagram Badge](https://img.shields.io/badge/-juliafremberg-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/juliafremberg/)](https://www.instagram.com/juliafremberg/)
 [![YouTube Badge](https://img.shields.io/badge/-JuliaFremberg-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@juliafremberg)](https://www.youtube.com/@juliafremberg)
