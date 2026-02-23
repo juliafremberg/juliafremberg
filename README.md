@@ -6,19 +6,12 @@
 - 🌱 Deep diving into machine learning, NLP, and data science.
 - 📫 You can reach me via email at [jfrem@seas.upenn.edu](mailto:jfrem@seas.upenn.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/juliafremberg/).
 
-## Skills
-
-- Programming Languages: Python, Java, OCaml, C/C++, SQL, JavaScript
-- Frameworks & Libraries: Flask, React.js, Next.js, TensorFlow, Tailwind CSS
-- Databases: MySQL, MongoDB, DuckDB
-- Tools & Technologies: Git, VS Code, IntelliJ, MongoDB Atlas, REST APIs, Node.js, JSON
-
 ## Interests
 
 Apart from coding, I enjoy:
 - 🏃‍♀️ Running
 - 🧘 Hot yoga
-- 👩‍🍳 Trying new restaurant spots
+- 👩‍🍳 Trying new restaurant spots in Philly
 
 ## Let's Connect!
 
